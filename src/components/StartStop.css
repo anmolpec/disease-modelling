@@ -1,0 +1,17 @@
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+button {
+    width: 50%;
+    background-color: rgb(218, 76, 51);
+    color: white;
+    border-style: solid;
+    border-color: black;
+    padding: 1rem;
+    border-radius: 10px;
+    font-size: small;
+    margin-bottom: 10px;
+}

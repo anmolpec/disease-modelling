@@ -1,0 +1,13 @@
+.slider {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    margin-top: 10%;
+    margin-bottom: 10%;
+    margin-left: 10%;
+    margin-right: 10%;
+    align-items: center;
+    border-radius: 10px;
+    background-color: rgb(206 103 43);
+    color: white;
+}
