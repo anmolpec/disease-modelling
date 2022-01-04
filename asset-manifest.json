@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/disease-modelling/static/css/main.98ab8eb3.chunk.css",
+    "main.css": "/disease-modelling/static/css/main.738ce87a.chunk.css",
     "main.js": "/disease-modelling/static/js/main.90ddc78b.chunk.js",
     "main.js.map": "/disease-modelling/static/js/main.90ddc78b.chunk.js.map",
     "runtime-main.js": "/disease-modelling/static/js/runtime-main.c67e84c2.js",
@@ -10,13 +10,13 @@
     "static/js/3.0ba2e39e.chunk.js": "/disease-modelling/static/js/3.0ba2e39e.chunk.js",
     "static/js/3.0ba2e39e.chunk.js.map": "/disease-modelling/static/js/3.0ba2e39e.chunk.js.map",
     "index.html": "/disease-modelling/index.html",
-    "static/css/main.98ab8eb3.chunk.css.map": "/disease-modelling/static/css/main.98ab8eb3.chunk.css.map",
+    "static/css/main.738ce87a.chunk.css.map": "/disease-modelling/static/css/main.738ce87a.chunk.css.map",
     "static/js/2.a275093f.chunk.js.LICENSE.txt": "/disease-modelling/static/js/2.a275093f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.c67e84c2.js",
     "static/js/2.a275093f.chunk.js",
-    "static/css/main.98ab8eb3.chunk.css",
+    "static/css/main.738ce87a.chunk.css",
     "static/js/main.90ddc78b.chunk.js"
   ]
 }
