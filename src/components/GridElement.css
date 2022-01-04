@@ -4,7 +4,8 @@
     border-style: none;
     border-width: 1px;
     background-color: white;
-    border-color: black;
+    border-color: white;
     justify-content: center;
     align-content: center;
+    height: 10px;
 }
