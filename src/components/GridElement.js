@@ -29,7 +29,7 @@ const GridElement = (props) => {
             }}
             onClick={elementClickHandler}
             onMouseOver={elementClickHandler}
-        ></div>
+        >.</div>
     );
 };
 
